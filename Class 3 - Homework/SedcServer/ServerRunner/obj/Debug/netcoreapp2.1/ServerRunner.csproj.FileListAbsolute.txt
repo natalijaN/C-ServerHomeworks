@@ -1,0 +1,16 @@
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.deps.json
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.runtimeconfig.json
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.runtimeconfig.dev.json
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.dll
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.pdb
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerCore.dll
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerCore.pdb
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csprojAssemblyReference.cache
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csproj.CoreCompileInputs.cache
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.AssemblyInfoInputs.cache
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.AssemblyInfo.cs
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csproj.CopyComplete
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.dll
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.pdb
