@@ -10,3 +10,15 @@ D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\RegexDemo\obj\Debug\
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.AssemblyInfo.cs
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.dll
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\RegexDemo\bin\Debug\netcoreapp2.1\regex-01.txt
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\RegexDemo\bin\Debug\netcoreapp2.1\RegexDemo.deps.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\RegexDemo\bin\Debug\netcoreapp2.1\RegexDemo.runtimeconfig.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\RegexDemo\bin\Debug\netcoreapp2.1\RegexDemo.runtimeconfig.dev.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\RegexDemo\bin\Debug\netcoreapp2.1\RegexDemo.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\RegexDemo\bin\Debug\netcoreapp2.1\RegexDemo.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.AssemblyInfoInputs.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.AssemblyInfo.cs
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.pdb

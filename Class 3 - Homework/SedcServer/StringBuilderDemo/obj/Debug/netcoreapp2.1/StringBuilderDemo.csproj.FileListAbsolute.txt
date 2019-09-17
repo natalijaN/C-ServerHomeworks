@@ -9,3 +9,14 @@ D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\ob
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.AssemblyInfo.cs
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.dll
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\StringBuilderDemo\bin\Debug\netcoreapp2.1\StringBuilderDemo.deps.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\StringBuilderDemo\bin\Debug\netcoreapp2.1\StringBuilderDemo.runtimeconfig.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\StringBuilderDemo\bin\Debug\netcoreapp2.1\StringBuilderDemo.runtimeconfig.dev.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\StringBuilderDemo\bin\Debug\netcoreapp2.1\StringBuilderDemo.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\StringBuilderDemo\bin\Debug\netcoreapp2.1\StringBuilderDemo.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.AssemblyInfoInputs.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.AssemblyInfo.cs
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.pdb

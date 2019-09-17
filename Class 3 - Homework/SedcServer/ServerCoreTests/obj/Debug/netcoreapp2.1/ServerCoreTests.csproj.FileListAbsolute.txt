@@ -17,3 +17,22 @@ D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCoreTests\obj\
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCoreTests\obj\Debug\netcoreapp2.1\ServerCoreTests.csproj.CopyComplete
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCoreTests\obj\Debug\netcoreapp2.1\ServerCoreTests.dll
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCoreTests\obj\Debug\netcoreapp2.1\ServerCoreTests.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\bin\Debug\netcoreapp2.1\ServerCoreTests.deps.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\bin\Debug\netcoreapp2.1\ServerCoreTests.runtimeconfig.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\bin\Debug\netcoreapp2.1\ServerCoreTests.runtimeconfig.dev.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\bin\Debug\netcoreapp2.1\ServerCoreTests.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\bin\Debug\netcoreapp2.1\ServerCoreTests.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\bin\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\bin\Debug\netcoreapp2.1\ServerCore.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\obj\Debug\netcoreapp2.1\ServerCoreTests.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\obj\Debug\netcoreapp2.1\ServerCoreTests.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\obj\Debug\netcoreapp2.1\ServerCoreTests.AssemblyInfoInputs.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\obj\Debug\netcoreapp2.1\ServerCoreTests.AssemblyInfo.cs
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\obj\Debug\netcoreapp2.1\ServerCoreTests.csproj.CopyComplete
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\obj\Debug\netcoreapp2.1\ServerCoreTests.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCoreTests\obj\Debug\netcoreapp2.1\ServerCoreTests.pdb

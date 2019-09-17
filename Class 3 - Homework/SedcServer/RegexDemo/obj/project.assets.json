@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\web development\\C# Server\\sedc7-11-3-csserver\\SedcServer\\RegexDemo\\RegexDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 3 - Homework\\SedcServer\\RegexDemo\\RegexDemo.csproj",
       "projectName": "RegexDemo",
-      "projectPath": "D:\\web development\\C# Server\\sedc7-11-3-csserver\\SedcServer\\RegexDemo\\RegexDemo.csproj",
+      "projectPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 3 - Homework\\SedcServer\\RegexDemo\\RegexDemo.csproj",
       "packagesPath": "C:\\Users\\Natalija\\.nuget\\packages\\",
-      "outputPath": "D:\\web development\\C# Server\\sedc7-11-3-csserver\\SedcServer\\RegexDemo\\obj\\",
+      "outputPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 3 - Homework\\SedcServer\\RegexDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

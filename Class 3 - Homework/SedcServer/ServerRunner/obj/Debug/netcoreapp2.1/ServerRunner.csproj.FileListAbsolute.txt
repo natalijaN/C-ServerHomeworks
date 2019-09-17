@@ -14,3 +14,19 @@ D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Deb
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csproj.CopyComplete
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.dll
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.deps.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.runtimeconfig.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.runtimeconfig.dev.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerCore.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.AssemblyInfoInputs.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.AssemblyInfo.cs
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csproj.CopyComplete
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.pdb

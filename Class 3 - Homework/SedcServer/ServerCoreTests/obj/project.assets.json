@@ -5851,11 +5851,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\web development\\C# Server\\sedc7-11-3-csserver\\SedcServer\\ServerCoreTests\\ServerCoreTests.csproj",
+      "projectUniqueName": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 3 - Homework\\SedcServer\\ServerCoreTests\\ServerCoreTests.csproj",
       "projectName": "ServerCoreTests",
-      "projectPath": "D:\\web development\\C# Server\\sedc7-11-3-csserver\\SedcServer\\ServerCoreTests\\ServerCoreTests.csproj",
+      "projectPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 3 - Homework\\SedcServer\\ServerCoreTests\\ServerCoreTests.csproj",
       "packagesPath": "C:\\Users\\Natalija\\.nuget\\packages\\",
-      "outputPath": "D:\\web development\\C# Server\\sedc7-11-3-csserver\\SedcServer\\ServerCoreTests\\obj\\",
+      "outputPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 3 - Homework\\SedcServer\\ServerCoreTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5874,8 +5874,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\web development\\C# Server\\sedc7-11-3-csserver\\SedcServer\\ServerCore\\ServerCore.csproj": {
-              "projectPath": "D:\\web development\\C# Server\\sedc7-11-3-csserver\\SedcServer\\ServerCore\\ServerCore.csproj"
+            "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 3 - Homework\\SedcServer\\ServerCore\\ServerCore.csproj": {
+              "projectPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 3 - Homework\\SedcServer\\ServerCore\\ServerCore.csproj"
             }
           }
         }

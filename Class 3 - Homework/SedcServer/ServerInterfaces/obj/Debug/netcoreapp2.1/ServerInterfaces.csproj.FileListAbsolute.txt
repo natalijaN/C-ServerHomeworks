@@ -7,3 +7,12 @@ D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.dll
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.pdb
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerInterfaces\bin\Debug\netcoreapp2.1\ServerInterfaces.deps.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerInterfaces\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerInterfaces\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.AssemblyInfoInputs.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.AssemblyInfo.cs
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.pdb

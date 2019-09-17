@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\web development\\C# Server\\sedc7-11-3-csserver\\SedcServer\\StringBuilderDemo\\StringBuilderDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 3 - Homework\\SedcServer\\StringBuilderDemo\\StringBuilderDemo.csproj",
       "projectName": "StringBuilderDemo",
-      "projectPath": "D:\\web development\\C# Server\\sedc7-11-3-csserver\\SedcServer\\StringBuilderDemo\\StringBuilderDemo.csproj",
+      "projectPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 3 - Homework\\SedcServer\\StringBuilderDemo\\StringBuilderDemo.csproj",
       "packagesPath": "C:\\Users\\Natalija\\.nuget\\packages\\",
-      "outputPath": "D:\\web development\\C# Server\\sedc7-11-3-csserver\\SedcServer\\StringBuilderDemo\\obj\\",
+      "outputPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 3 - Homework\\SedcServer\\StringBuilderDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

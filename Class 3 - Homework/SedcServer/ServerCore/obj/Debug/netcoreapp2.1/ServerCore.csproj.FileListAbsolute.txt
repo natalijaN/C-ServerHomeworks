@@ -10,3 +10,15 @@ D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\obj\Debug
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csproj.CopyComplete
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.dll
 D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.deps.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.AssemblyInfoInputs.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.AssemblyInfo.cs
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csproj.CopyComplete
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 3 - Homework\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.pdb
