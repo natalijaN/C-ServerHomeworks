@@ -1,0 +1,24 @@
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.deps.json
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.dll
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.pdb
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csprojAssemblyReference.cache
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csproj.CoreCompileInputs.cache
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.AssemblyInfoInputs.cache
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.AssemblyInfo.cs
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csproj.CopyComplete
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.dll
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.pdb
+D:\web development\C# Server\Class 8\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.deps.json
+D:\web development\C# Server\Class 8\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.dll
+D:\web development\C# Server\Class 8\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.pdb
+D:\web development\C# Server\Class 8\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+D:\web development\C# Server\Class 8\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+D:\web development\C# Server\Class 8\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csprojAssemblyReference.cache
+D:\web development\C# Server\Class 8\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csproj.CoreCompileInputs.cache
+D:\web development\C# Server\Class 8\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.AssemblyInfoInputs.cache
+D:\web development\C# Server\Class 8\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.AssemblyInfo.cs
+D:\web development\C# Server\Class 8\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csproj.CopyComplete
+D:\web development\C# Server\Class 8\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.dll
+D:\web development\C# Server\Class 8\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.pdb
