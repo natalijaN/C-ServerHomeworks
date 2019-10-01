@@ -28,7 +28,7 @@ namespace ServerPlugins
             {
                 var defaultHtml = $@"<div>
  <h2>Default Page</h2>
-<div>Your file is not found in this ""{FolderName}""</div>
+<div>Your file is not found in the folder - ""{FolderName}""</div>
 </div>";
                 byte[] defaultBytes = Encoding.ASCII.GetBytes(defaultHtml);
                 return new Response
