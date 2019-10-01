@@ -1352,11 +1352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerRunner\\ServerRunner.csproj",
+      "projectUniqueName": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerRunner\\ServerRunner.csproj",
       "projectName": "ServerRunner",
-      "projectPath": "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerRunner\\ServerRunner.csproj",
+      "projectPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerRunner\\ServerRunner.csproj",
       "packagesPath": "C:\\Users\\Natalija\\.nuget\\packages\\",
-      "outputPath": "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerRunner\\obj\\",
+      "outputPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerRunner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1375,17 +1375,17 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\web development\\C# Server\\Class 8\\SedcServer\\PngResponseGenerator\\PngResponseGeneratorLib.csproj": {
-              "projectPath": "D:\\web development\\C# Server\\Class 8\\SedcServer\\PngResponseGenerator\\PngResponseGeneratorLib.csproj"
+            "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\PngResponseGenerator\\PngResponseGeneratorLib.csproj": {
+              "projectPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\PngResponseGenerator\\PngResponseGeneratorLib.csproj"
             },
-            "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerCore\\ServerCore.csproj": {
-              "projectPath": "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerCore\\ServerCore.csproj"
+            "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerCore\\ServerCore.csproj": {
+              "projectPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerCore\\ServerCore.csproj"
             },
-            "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerInterfaces\\ServerInterfaces.csproj": {
-              "projectPath": "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerInterfaces\\ServerInterfaces.csproj"
+            "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerInterfaces\\ServerInterfaces.csproj": {
+              "projectPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerInterfaces\\ServerInterfaces.csproj"
             },
-            "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerPlugins\\ServerPlugins.csproj": {
-              "projectPath": "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerPlugins\\ServerPlugins.csproj"
+            "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerPlugins\\ServerPlugins.csproj": {
+              "projectPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerPlugins\\ServerPlugins.csproj"
             }
           }
         }

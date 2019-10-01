@@ -710,11 +710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerCore\\ServerCore.csproj",
+      "projectUniqueName": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerCore\\ServerCore.csproj",
       "projectName": "ServerCore",
-      "projectPath": "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerCore\\ServerCore.csproj",
+      "projectPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerCore\\ServerCore.csproj",
       "packagesPath": "C:\\Users\\Natalija\\.nuget\\packages\\",
-      "outputPath": "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerCore\\obj\\",
+      "outputPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -733,8 +733,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerInterfaces\\ServerInterfaces.csproj": {
-              "projectPath": "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerInterfaces\\ServerInterfaces.csproj"
+            "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerInterfaces\\ServerInterfaces.csproj": {
+              "projectPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerInterfaces\\ServerInterfaces.csproj"
             }
           }
         }

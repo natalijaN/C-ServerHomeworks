@@ -21,12 +21,10 @@ namespace ServerRunner
                 server
                     .UseResponseGenerator<PngResponseGenerator>()
                     .UseResponseGenerator<PostMethodResponseGenerator>()
-                    //.UseResponseGenerator(new StaticResponseGenerator(@"C:\Users\Weko\OneDrive\Memes"))
-                    .UseResponseGenerator(new StaticResponseGenerator(@"D:\web development\TryCode"))
+                    .UseResponseGenerator(new StaticResponseGenerator(@"D:\web development\trycode"))
                     .UseResponsePostProcessor<NotFoundPostProcessor>()
-                    .UseResponseGenerator(new SqlServerResponseGenerator("SEDC", "Server=.\\SQLExpress;Database=SEDC;Trusted_Connection=True;"));
-                    //.UseResponseGenerator(new SqlServerResponseGenerator("DSDS", "Server=.\\SQLExpress;Database=OneCrew.QA.DSDS;Trusted_Connection=True;"))
-                   // .UseResponseGenerator(new SqlServerResponseGenerator("invalid", string.Empty));
+                    .UseResponseGenerator(new SqlServerResponseGenerator("SEDC", "Server=.\\SQLExpress;Database=SEDC;Trusted_Connection=True;"))
+                    .UseResponseGenerator(new ErrorResponseGenerator("SEDC", "Server=.\\SQLExpress;Database=SEDC;Trusted_Connection=True;"));
 
 
                 var result = server.Run();

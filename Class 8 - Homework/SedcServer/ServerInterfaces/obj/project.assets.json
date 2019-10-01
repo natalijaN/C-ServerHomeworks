@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerInterfaces\\ServerInterfaces.csproj",
+      "projectUniqueName": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerInterfaces\\ServerInterfaces.csproj",
       "projectName": "ServerInterfaces",
-      "projectPath": "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerInterfaces\\ServerInterfaces.csproj",
+      "projectPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerInterfaces\\ServerInterfaces.csproj",
       "packagesPath": "C:\\Users\\Natalija\\.nuget\\packages\\",
-      "outputPath": "D:\\web development\\C# Server\\Class 8\\SedcServer\\ServerInterfaces\\obj\\",
+      "outputPath": "C:\\Users\\Natalija\\Documents\\GitHub\\C-ServerHomeworks\\Class 8 - Homework\\SedcServer\\ServerInterfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

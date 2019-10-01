@@ -74,15 +74,8 @@ namespace ServerPlugins.SqlServer
 
         public bool IsInterested(Request request, ILogger logger)
         {
-            var path = $"sql/{DatabaseName}/";
-            var indexOfDatabase = path.IndexOf(DatabaseName) + DatabaseName.Length;
-            if (request.Path != "")
-            {
-                int? id = request.Path[indexOfDatabase];
-                Console.WriteLine(id);
-
-            }
-            return request.Path.StartsWith(path, StringComparison.InvariantCultureIgnoreCase);
+            var regex = new Regex($@"^sql\/{DatabaseName.ToLower()}*\/?[tables]*?$");
+            return regex.IsMatch(request.Path) ? true : false;    
         }
 
         #region IDisposable Support

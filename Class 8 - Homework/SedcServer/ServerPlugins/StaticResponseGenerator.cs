@@ -23,23 +23,35 @@ namespace ServerPlugins
         {
             var path = string.Join(Path.DirectorySeparatorChar, request.Path.Split("/").Skip(2));
             var fullPath = Path.Combine(FolderPath, path);
+          
             if (!File.Exists(fullPath))
             {
-                return new NotFoundResponse();
-            }
-
-            var bytes = await File.ReadAllBytesAsync(fullPath);
-            var footer = $"<div style='bottom: 0;position: absolute;'>Total size of the file is: {bytes.Count()} bytes.</div>";
-            byte[] footerBytes = Encoding.ASCII.GetBytes(footer);
-            var completeBytes = Combine(bytes, footerBytes);
-
-            return new Response
+                var defaultHtml = $@"<div>
+ <h2>Default Page</h2>
+<div>Your file is not found in this ""{FolderName}""</div>
+</div>";
+                byte[] defaultBytes = Encoding.ASCII.GetBytes(defaultHtml);
+                return new Response
+                {
+                    Bytes = defaultBytes,
+                    Type = ResponseType.Binary,
+                    ContentType = ContentTypes.GetContentType(fullPath)
+                };
+            } else
             {
-                Bytes = completeBytes,
-                Type = ResponseType.Binary,
-                ContentType = ContentTypes.GetContentType(fullPath)
+                var bytes = await File.ReadAllBytesAsync(fullPath);
+                var footer = $"<div style='bottom: 0;position: absolute;'>Total size of the file is: {bytes.Count()} bytes.</div>";
+                byte[] footerBytes = Encoding.ASCII.GetBytes(footer);
+                var completeBytes = Combine(bytes, footerBytes);
 
-            };
+                return new Response
+                {
+                    Bytes = completeBytes,
+                    Type = ResponseType.Binary,
+                    ContentType = ContentTypes.GetContentType(fullPath)
+
+                };
+            }
         }
 
         public bool IsInterested(Request request, ILogger logger)
