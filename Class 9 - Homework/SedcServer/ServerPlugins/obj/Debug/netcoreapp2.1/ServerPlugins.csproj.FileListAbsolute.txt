@@ -1,0 +1,24 @@
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerPlugins.deps.json
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerPlugins.dll
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerPlugins.pdb
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.csprojAssemblyReference.cache
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.csproj.CoreCompileInputs.cache
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.AssemblyInfoInputs.cache
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.AssemblyInfo.cs
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.csproj.CopyComplete
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.dll
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 9 - Homework\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerPlugins.deps.json
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 9 - Homework\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerPlugins.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 9 - Homework\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerPlugins.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 9 - Homework\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 9 - Homework\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 9 - Homework\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 9 - Homework\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 9 - Homework\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.AssemblyInfoInputs.cache
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 9 - Homework\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.AssemblyInfo.cs
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 9 - Homework\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.csproj.CopyComplete
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 9 - Homework\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.dll
+C:\Users\Natalija\Documents\GitHub\C-ServerHomeworks\Class 9 - Homework\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.pdb

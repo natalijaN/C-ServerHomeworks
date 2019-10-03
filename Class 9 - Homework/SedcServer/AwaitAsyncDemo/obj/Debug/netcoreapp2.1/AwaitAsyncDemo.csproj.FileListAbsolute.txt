@@ -1,0 +1,10 @@
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\bin\Debug\netcoreapp2.1\AwaitAsyncDemo.deps.json
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\bin\Debug\netcoreapp2.1\AwaitAsyncDemo.runtimeconfig.json
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\bin\Debug\netcoreapp2.1\AwaitAsyncDemo.runtimeconfig.dev.json
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\bin\Debug\netcoreapp2.1\AwaitAsyncDemo.dll
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\bin\Debug\netcoreapp2.1\AwaitAsyncDemo.pdb
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\obj\Debug\netcoreapp2.1\AwaitAsyncDemo.csproj.CoreCompileInputs.cache
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\obj\Debug\netcoreapp2.1\AwaitAsyncDemo.AssemblyInfoInputs.cache
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\obj\Debug\netcoreapp2.1\AwaitAsyncDemo.AssemblyInfo.cs
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\obj\Debug\netcoreapp2.1\AwaitAsyncDemo.dll
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\obj\Debug\netcoreapp2.1\AwaitAsyncDemo.pdb
